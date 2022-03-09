@@ -57,5 +57,7 @@ h3{
 .shadow{
 
    text-shadow: 2px 2px #800000;
+   
+   {color: blue; text-decoration: underline; font-style: italic}
 
 }
